@@ -64,12 +64,12 @@
       {
         "name": "Facebook",
         "description": "Artepanjym",
-        "icon": "/assets/images/facebook.png"
+        "icon": "/assets/images/facebook.jpg"
       },
       {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        "name": "Instagram",
+        "description": "@artepanjym",
+        "icon": "/assets/images/insta.png"
       }
     ]
   },
