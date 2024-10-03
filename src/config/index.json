@@ -69,7 +69,8 @@
       {
         "name": "Instagram",
         "description": "@artepanjym",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url":""
       }
     ]
   },
